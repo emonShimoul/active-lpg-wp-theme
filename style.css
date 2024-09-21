@@ -19,8 +19,22 @@ Text Domain: activelpg
   list-style: none;
 }
 .menu {
-  background-color: #ff6900;
+  background-color: #ee3131;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  margin-bottom: 50px;
 }
 .menu ul li a {
   color: white;
+  font-weight: bold;
+  font-style: italic;
+}
+.contacts {
+  font-weight: 500;
+  font-style: normal;
+  font-size: 14px;
+  color: #e54a35;
+}
+.contact-number {
+  margin-right: 15px;
 }

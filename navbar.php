@@ -5,9 +5,9 @@
         </div>
         <?php endif; ?>
 
-        <div class="contact-numbers">
-            <span>+8801711843533</span>
-            <span>lpgactive@gmail.com</span>
+        <div class="contacts d-flex">
+            <p class="contact-number">+8801711843533</p>
+            <p>lpgactive@gmail.com</p>
         </div>
     </div>
 
