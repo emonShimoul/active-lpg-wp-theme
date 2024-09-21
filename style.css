@@ -22,7 +22,6 @@ Text Domain: activelpg
   background-color: #ee3131;
   padding-top: 15px;
   padding-bottom: 5px;
-  margin-bottom: 50px;
 }
 .menu ul li a {
   color: white;
@@ -38,7 +37,21 @@ Text Domain: activelpg
 .contact-number {
   margin-right: 15px;
 }
-
+.heading {
+  background-color: #081b33;
+  color: #ffffff;
+  padding: 30px 0;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+.heading h1 {
+  font-size: 5.625vw;
+}
+.heading p {
+  color: #e54a35;
+  font-weight: bold;
+  margin: 0;
+}
 .footer {
   color: lightgray;
   background-color: #06163a;
