@@ -75,3 +75,43 @@ Text Domain: activelpg
 .footer-right {
   text-align: right;
 }
+
+/* clients-seen css starts */
+.clients-seen {
+  text-align: center;
+  padding-bottom: 80px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid black;
+}
+.clients-seen h3,
+.services h3 {
+  font-weight: bold;
+  color: #081b33;
+  font-size: 3.02083333vw;
+  font-family: "Raleway", sans-serif;
+}
+.clients-seen h3 {
+  margin: 50px 0;
+}
+.clients-seen i {
+  font-size: 50px;
+  margin-bottom: 30px;
+  color: rgb(74, 198, 247);
+}
+.clients-seen-bottom {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  width: 60%;
+}
+.clients-seen-bottom p,
+.services p {
+  /* color: #081b33; */
+  font-weight: 300;
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+/* services css starts */
+.services {
+  text-align: center;
+}
