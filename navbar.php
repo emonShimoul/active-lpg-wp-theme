@@ -1,4 +1,5 @@
-<div class="container nav-bar d-flex justify-content-between align-items-center">
+<div class="nav-bar">
+    <div class="container d-flex justify-content-between align-items-center">
         <?php if(current_theme_supports( "custom-logo" )): ?>
         <div class="header-logo text-center">
             <?php the_custom_logo(); ?>
@@ -10,6 +11,7 @@
             <p>lpgactive@gmail.com</p>
         </div>
     </div>
+</div>
 
 <div class="menu">
     <div class="container">
