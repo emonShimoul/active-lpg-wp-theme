@@ -38,3 +38,9 @@ Text Domain: activelpg
 .contact-number {
   margin-right: 15px;
 }
+
+.footer {
+  color: #fff;
+  background-color: #06163a;
+  padding: 50px 0;
+}
