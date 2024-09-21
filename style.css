@@ -11,9 +11,16 @@ Tags: lpg, conversion
 Text Domain: activelpg
 */
 
-.navigation {
+.mainmenucontainer ul {
+  display: flex;
+  justify-content: space-between;
+}
+.mainmenucontainer ul li {
   list-style: none;
 }
-#mainmenucontainer ul li {
-  list-style: none;
+.menu {
+  background-color: #ff6900;
+}
+.menu ul li a {
+  color: white;
 }
