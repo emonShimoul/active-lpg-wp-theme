@@ -47,8 +47,8 @@
             <div class="col service-section">
                 <h5>Service</h5>
                 <ul>
-                <i class="fa-solid fa-circle-dot"></i><li>CNG Service and Maintenance</li>
                     <li><i class="fa-solid fa-circle-dot"></i> Oil change</li>
+                    <li><i class="fa-solid fa-circle-dot"></i>CNG Service and Maintenance</li>
                     <li><i class="fa-solid fa-circle-dot"></i> Tune-up / Spark Plug Replacement</li>
                     <li><i class="fa-solid fa-circle-dot"></i> Cabin Air Filter Replacement</li>
                     <li><i class="fa-solid fa-circle-dot"></i> Engine Air Filter Replacement</li>

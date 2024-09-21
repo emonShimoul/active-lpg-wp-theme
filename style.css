@@ -117,7 +117,7 @@ Text Domain: activelpg
 }
 .services ul li {
   list-style: none;
-  display: inline;
+  /* display: inline; */
   /* text-align: left; */
 }
 .services ul i {
