@@ -7,7 +7,7 @@
             array(
                 'theme_location' => 'mainmenu',
                 'menu_id'        => 'mainmenucontainer',
-                'menu_class'     => 'list-inline text-center',
+                'menu_class'     => 'list-inline text-center text-danger',
             )
         );
     ?>

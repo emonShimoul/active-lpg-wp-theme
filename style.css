@@ -14,7 +14,6 @@ Text Domain: activelpg
 .navigation {
   list-style: none;
 }
-#mainmenucontainer {
+#mainmenucontainer ul li {
   list-style: none;
-  background-color: red;
 }
