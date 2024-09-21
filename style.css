@@ -115,3 +115,12 @@ Text Domain: activelpg
 .services {
   text-align: center;
 }
+.services ul li {
+  list-style: none;
+  display: inline;
+  /* text-align: left; */
+}
+.services ul i {
+  font-size: 10px;
+  margin-right: 5px;
+}
