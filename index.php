@@ -8,6 +8,10 @@
         <h1>Unleash the Power <br> of LPG Conversion</h1>
     </div>
 
+    <div>
+        <img src="<?php echo header_image(); ?>" alt="">
+    </div>
+
     <div class="posts">
         <?php
             while(have_posts()){
