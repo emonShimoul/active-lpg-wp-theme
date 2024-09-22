@@ -37,33 +37,33 @@
         <h3>Services to Save You Money</h3>
         <p>Every person needs something a little different. Here are ways we can <br> help you save money.</p>
         <div class="row row-cols-1 row-cols-md-3 g-4">
-            <div class="col">
+            <div class="col ps-4">
                 <h5>Conversion</h5>
                 <ul>
-                    <li><i class="fa-solid fa-circle-dot"></i> LPG Conversion: Sequential or Traditional kits (made in Italy or Turkey)</li>
-                    <li><i class="fa-solid fa-circle-dot"></i> Installation: Our conversion time is around 4 hours. There is a variance in the time it takes based on the vehicle but we will always look to complete your vehicle as quickly as possible. Call us to check availability. </li>
+                    <li>LPG Conversion: Sequential or Traditional kits (made in Italy or Turkey)</li>
+                    <li>Installation: Our conversion time is around 4 hours. There is a variance in the time it takes based on the vehicle but we will always look to complete your vehicle as quickly as possible. Call us to check availability. </li>
                 </ul>
             </div>
             <div class="col service-section">
                 <h5>Service</h5>
                 <ul>
-                    <li><i class="fa-solid fa-circle-dot"></i> Oil change</li>
-                    <li><i class="fa-solid fa-circle-dot"></i>CNG Service and Maintenance</li>
-                    <li><i class="fa-solid fa-circle-dot"></i> Tune-up / Spark Plug Replacement</li>
-                    <li><i class="fa-solid fa-circle-dot"></i> Cabin Air Filter Replacement</li>
-                    <li><i class="fa-solid fa-circle-dot"></i> Engine Air Filter Replacement</li>
-                    <li><i class="fa-solid fa-circle-dot"></i> Radiator Coolant Fluid Exchange</li>
-                    <li><i class="fa-solid fa-circle-dot"></i> Vehicle Inspections and Diagnostics</li>
+                    <li>Oil change</li>
+                    <li>CNG Service and Maintenance</li>
+                    <li> Tune-up / Spark Plug Replacement</li>
+                    <li> Cabin Air Filter Replacement</li>
+                    <li> Engine Air Filter Replacement</li>
+                    <li> Radiator Coolant Fluid Exchange</li>
+                    <li> Vehicle Inspections and Diagnostics</li>
                 </ul>
             </div>
             <div class="col">
                 <h5>Wholesale</h5>
                 <ul>
-                    <li><i class="fa-solid fa-circle-dot"></i> LPG Full Kit Set</li>
-                    <li><i class="fa-solid fa-circle-dot"></i> LPG Front Kit Set</li>
-                    <li><i class="fa-solid fa-circle-dot"></i> LPG Rear Kit Set</li>
-                    <li><i class="fa-solid fa-circle-dot"></i> LPG Spare Parts</li>
-                    <li><i class="fa-solid fa-circle-dot"></i> LPG Regulator</li>
+                    <li>LPG Full Kit Set</li>
+                    <li>LPG Front Kit Set</li>
+                    <li>LPG Rear Kit Set</li>
+                    <li>LPG Spare Parts</li>
+                    <li>LPG Regulator</li>
                 </ul>
             </div>
         </div>
@@ -73,7 +73,7 @@
     </div>
     <!-- services section ends -->
 
-    <div class="container text-center">
+    <div class="container text-center mb-4">
         <img src="<?php echo header_image(); ?>" alt="">
     </div>
 
