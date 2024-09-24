@@ -6,6 +6,7 @@ function activelpg_bootstrapping(){
     add_theme_support("post-thumbnails");
     add_theme_support("title-tag");
     add_theme_support("custom-header");
+    register_nav_menu("mainmenu", __("Main Menu", "activelpg"));
     $alpha_custom_logo_defaults = array(
         "width" => '100',
         "height" => '100'
