@@ -86,6 +86,7 @@
         while(have_posts()){
             the_post();
             get_template_part("post-formats/content",get_post_format());
+            the_content(); // Renders the blocks added from the Gutenberg editor
         }
     ?>
     </div>
