@@ -1,12 +1,12 @@
 <?php
 
 
-function activelpg_bootstrapping(){
-    load_theme_textdomain("activelpg");
+function activelpgv2_bootstrapping(){
+    load_theme_textdomain("activelpgv2");
     add_theme_support("post-thumbnails");
     add_theme_support("title-tag");
     add_theme_support("custom-header");
-    register_nav_menu("mainmenu", __("Main Menu", "activelpg"));
+    register_nav_menu("mainmenu", __("Main Menu", "activelpgv2"));
     $alpha_custom_logo_defaults = array(
         "width" => '100',
         "height" => '100'
@@ -20,11 +20,11 @@ function activelpg_bootstrapping(){
     add_theme_support( 'editor-styles' );
     add_editor_style( 'style-editor.css' ); // The file name can be customized if needed
 }
-add_action("after_setup_theme", "activelpg_bootstrapping");
+add_action("after_setup_theme", "activelpgv2_bootstrapping");
 
 
-function activelpg_assets(){
-    wp_enqueue_style("activelpg", get_stylesheet_uri());
+function activelpgv2_assets(){
+    wp_enqueue_style("activelpgv2", get_stylesheet_uri());
     wp_enqueue_style("bootstrap", "//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css");
 }
-add_action("wp_enqueue_scripts", "activelpg_assets");
+add_action("wp_enqueue_scripts", "activelpgv2_assets");

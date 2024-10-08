@@ -1,5 +1,5 @@
 /*
-Theme Name: activelpg
+Theme Name: activelpgv2
 Theme URI: #
 Author: Emon Shimoul
 Autor URI: https://emonshimoul.netlify.app/
@@ -8,7 +8,7 @@ Version: 1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: lpg, conversion
-Text Domain: activelpg
+Text Domain: activelpgv2
 */
 
 * {
@@ -138,3 +138,28 @@ Text Domain: activelpg
 /* .page-id-70 .post-title {
   display: none;
 } */
+
+/* activelpgv2 theme */
+.top-bar {
+  background-color: #303338;
+  color: #ffffff;
+  padding: 10px 0;
+}
+.top-bar ul {
+  margin-bottom: 0;
+}
+.top-bar ul li {
+  display: inline;
+}
+.top-bar .fab,
+.top-bar .fas {
+  vertical-align: middle;
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.02);
+  padding: 3px;
+  width: 22px;
+  height: 22px;
+  font-size: 13px;
+  text-align: center;
+}
